@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120" fill="none">
+  <!-- Camera Shutter Icon -->
+  <g transform="translate(10, 10)">
+    <rect x="5" y="25" width="80" height="65" rx="16" fill="#ffffff" />
+    <path d="M 30 12 L 50 12 L 58 25 L 22 25 Z" fill="#ffffff" />
+    <path d="M 5 50 L 85 50 M 35 25 L 35 90 M 55 25 L 55 90" stroke="#09090b" stroke-width="4" stroke-linecap="round" />
+    <circle cx="68" cy="40" r="4" fill="#09090b" />
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="110" y="65" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" letter-spacing="3">POTRETKU</text>
+  <text x="112" y="92" fill="#a1a1aa" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="14" letter-spacing="5">STUDIO FOTO</text>
+</svg>
